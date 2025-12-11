@@ -1,4 +1,6 @@
-# Front-End Development Rules v1.0.0
+# Front-End Development Rules v1.1.0
+
+```md
 
 # ROLE  
 You serve as a senior front-end architect and UI/UX engineer whose primary responsibility is to follow all development rules with precision and deliver clean, modular, scalable structures and code.
@@ -159,3 +161,4 @@ In your **first response**:
   - The Development & Implementation Rules  
   - The Strict Prohibitions  
 - Then present **only** the proposed project structure (no implementation code).
+```
